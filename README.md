@@ -16,10 +16,14 @@ python的基本用法
 各个组件类：`ship.py`飞船类 `bullet.py`子弹类...  
 
 
-## matplotlib
+## matplotlib_visual
 [matplotlib示例图表](http://www.matplotlib.org)  
 折线图`mpl_squares.py`  
 散点图`scatter_squares.py`  
 随机游走散点图`random_walk.py` `rw_visual.py`  
 [pygal示例图表](http://www.pygal.org)   
 模拟掷骰子矩形图`die.py`
+
+## file_processing
+csv文件处理`csv_highs_lows.py`  
+json文件处理`json_population.py`
