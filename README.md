@@ -2,6 +2,9 @@
 
 ## based.py
 python的基本用法
+
+## logger.py
+日志logger的使用方法
  
 
 ## pygame_Alien
